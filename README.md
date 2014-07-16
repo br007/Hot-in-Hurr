@@ -18,7 +18,7 @@ Make sure to change the song name in line to match your mp3 on line 55
 
 Known Issues:
 
-1. I have been noticing issues, where the pygame will stop play music and describe that
+1. I have been noticing issues, where the pygame module will not play music and describe that
   
   
   
